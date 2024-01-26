@@ -1,0 +1,25 @@
+- Pictures for breweries and beers' logos
+- form validations : unique name?
+                     limited number of characters for phone number, zip code?
+                     date can't be in the future? // Complete 1/23/23
+
+
+                     format for date : words capitalized ?
+                     why isn't the response.status working in the post method?
+
+
+
+
+    brewery ordered by name?
+    beer ordered by highest rated? if so change the table ? (too much work)
+    reviews ordered by date
+    hide form when the user has posted a review
+
+    delete brewery
+    update brewery (another form?)
+    add beer
+
+css :
+home page
+brewery details page and its components
+beer details and its components
